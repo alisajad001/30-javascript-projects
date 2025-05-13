@@ -7,3 +7,10 @@ Started the popular [JavaScript30](https://javascript30.com) challenge to brush 
 ### What I learned:
 
 - Using `e.propertyName` (surprisingly, I hadn’t used this before 😄)
+
+## Project 02 – Classic Clock
+
+### What I learned:
+
+- Worked with Date() object.
+- Learned some useful CSS tips.
