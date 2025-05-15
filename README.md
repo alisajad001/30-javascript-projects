@@ -14,3 +14,9 @@ Started the popular [JavaScript30](https://javascript30.com) challenge to brush 
 
 - Worked with Date() object.
 - Learned some useful CSS tips.
+
+## Project 03 – Classic Clock
+
+### What I learned:
+
+- How to update CSS variables in JavaScript
